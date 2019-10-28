@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    padding: 1% 15% 0 15%;
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 2.9em;
+    color: white;
+}
+
+.bg-ini {
+    background: #071d41;
+    border-bottom: solid 13px #009ddb;
+}
+
+.nav-item a {
+    color: white !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dropdown-menu a {
+    color: black !important;
+}
+
+.accordion {
+    width: 100%;
+}
+
+.ac {
+    text-decoration: none;
+}
+
+.metodo {
+    font-size: 14px;
+    font-weight: 700;
+    min-width: 80px;
+    padding: 6px 15px;
+    text-align: center;
+    border-radius: 3px;
+    background: #61affe;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.caminho {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: pointer;
+    color: #333;
+    font-weight: 40px;
+}
+
+.titulo-acordion {
+    color: #333;
+    font-size: 14px;
+}
+
+code {
+    font-size: 12px;
+    display: block;
+    margin: 0;
+    padding: 10px;
+    border-radius: 4px;
+    background: #41444e;
+    font-family: monospace;
+    font-weight: 600;
+    color: #fff;
+}
+
+footer {
+    border-top: solid 13px #009ddb;
+    background: #071d41;
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    bottom: 0;
+    margin: auto;
+    padding: 15px 5px;
+    margin-top: 12%;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: white;
+}
+
+.main {
+    height: 100%;
+}
