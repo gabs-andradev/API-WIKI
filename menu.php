@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-sm navbar-light">
-    <a class="navbar-brand" href="index.php"> <img style="width: 217px" src="logo.png" /></a>
+    <a class="navbar-brand" href="index.php"> <img style="width: 217px" src="http://10.0.10.3/_files/Outros/Logo_Santos_Port_Authority-branco.png" /></a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
